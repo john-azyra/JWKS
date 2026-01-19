@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "azyra-sandbox-1",
+      "n": "2jBIA8ElgN6B0sWtNgRUBkqInnAniiXkQuqf0zPpDNoWwscn7mLr-jvlglhFuL-VhRr1vTT_n3lQR7b63k8XtM9RzzQv3BaaJeZzYxYhsJTqp0qr2GIpycwFvfQOQx9AFs0zamXOpw-YQ33FtfY83b-D1Q3JDxvCkzIaeJUvhtICpm-vREJMD0X9XPEDR_kOYOS_hkuM_GPOoC4Z9gdcUum9rxtS6oPXbPQ9umPScEmcIWocBspOcRDwyCq1W9h90wMYyf7qO5Hw-xc6AGGa9SFoqUZjZtkEkYCbxzFnxr3dD5EeX0W8_1RJHEITwyR5WKw3cXqcIl3tyrRyK4VZVw",
+      "e": "AQAB",
+      "use": "sig",
+      "alg": "RS256"
+    }
+  ]
+}
